@@ -1,10 +1,17 @@
+body{
+    background-image: url(./vecteezy_vector-image-of-a-collection-of-planets-in-outer-space_.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 .contenido {
     display: flex;
     align-items: center;
     flex-direction: column;
     flex-wrap: wrap;
     width: 100%;
-    padding: 5%;
+    padding: 10%;
     gap: 5px;
 }
 
